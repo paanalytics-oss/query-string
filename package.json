@@ -1,6 +1,6 @@
 {
 	"name": "query-string",
-	"version": "6.1.1-paa",
+	"version": "6.1.2-paa",
 	"description": "Parse and stringify URL query strings",
 	"license": "MIT",
 	"repository": "sindresorhus/query-string",
@@ -37,7 +37,7 @@
 	],
 	"dependencies": {
 		"decode-uri-component": "^0.2.0",
-		"strict-uri-encode": "^2.0.0"
+		"strict-uri-encode": "^2.0.1-paa"
 	},
 	"devDependencies": {
 		"ava": "*",
